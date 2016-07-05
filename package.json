@@ -1,0 +1,26 @@
+{
+  "name": "mean-stack-crud-app",
+  "version": "1.0.1",
+  "description": "Sample MEAN app doing CRUD operations.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mongojs": "^2.4.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url":  ""
+  },
+  "author": "Prashanth Ambure",
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "MIT"
+}
